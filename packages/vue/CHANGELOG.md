@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 0.50.0 (2023-10-01)
+
+
+### Features
+
+* Hooks for checking if feature is enabled in React and Vue.js ([#108](https://github.com/featurevisor/featurevisor/issues/108)) ([4e2a269](https://github.com/featurevisor/featurevisor/commit/4e2a269da923a94055d232ec479e6562dc297120))
+* React provider component prop renamed from sdk to instance ([#129](https://github.com/featurevisor/featurevisor/issues/129)) ([9e8015c](https://github.com/featurevisor/featurevisor/commit/9e8015c14a0924d25b75f06fd2a6e6ef6c5eee7a))
+* renamed Attributes (object) to Context ([#101](https://github.com/featurevisor/featurevisor/issues/101)) ([c392ad5](https://github.com/featurevisor/featurevisor/commit/c392ad5f1b6100167aa5637b131f08036a7f5a55))
+* SDK to support isEnabled() checks ([#104](https://github.com/featurevisor/featurevisor/issues/104)) ([4f52136](https://github.com/featurevisor/featurevisor/commit/4f521367a3f1ef76833ba614b6a1f4b66abef2e1))
+* use Prettier v2.x ([#143](https://github.com/featurevisor/featurevisor/issues/143)) ([ddca499](https://github.com/featurevisor/featurevisor/commit/ddca499526f2f8bf10dc340fb55877584501a682))
+* Vue.js SDK ([#97](https://github.com/featurevisor/featurevisor/issues/97)) ([d099adb](https://github.com/featurevisor/featurevisor/commit/d099adbb6df923bc10aeb8c0a60c85612669e1a1))
+
+
+
+
+
 # [0.49.0](https://github.com/featurevisor/featurevisor/compare/v0.48.0...v0.49.0) (2023-09-30)
 
 **Note:** Version bump only for package @featurevisor/vue

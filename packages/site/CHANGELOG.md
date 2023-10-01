@@ -3,6 +3,23 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 0.50.0 (2023-10-01)
+
+
+### Bug Fixes
+
+* for showing variations tab in generated site ([#107](https://github.com/featurevisor/featurevisor/issues/107)) ([55af854](https://github.com/featurevisor/featurevisor/commit/55af854c95bbda5eaa0b5d6a8c4f615a59fdecd4))
+
+
+### Features
+
+* Status site generator ([#31](https://github.com/featurevisor/featurevisor/issues/31)) ([05749d4](https://github.com/featurevisor/featurevisor/commit/05749d4ca2938a0ee7c7b52c7441b078d5f0dee9))
+* use Prettier v2.x ([#143](https://github.com/featurevisor/featurevisor/issues/143)) ([ddca499](https://github.com/featurevisor/featurevisor/commit/ddca499526f2f8bf10dc340fb55877584501a682))
+
+
+
+
+
 # [0.49.0](https://github.com/featurevisor/featurevisor/compare/v0.48.0...v0.49.0) (2023-09-30)
 
 **Note:** Version bump only for package @featurevisor/site

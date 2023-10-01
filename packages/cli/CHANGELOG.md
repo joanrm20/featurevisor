@@ -3,6 +3,30 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 0.50.0 (2023-10-01)
+
+
+### Bug Fixes
+
+* cli package ([5aeca09](https://github.com/featurevisor/featurevisor/commit/5aeca098a02afcd16c5327dc94a286006f618d60))
+* linting ([230bfa0](https://github.com/featurevisor/featurevisor/commit/230bfa0824f79181581585ccc37c2e78c5aeac42))
+* publish access ([ea5cd7c](https://github.com/featurevisor/featurevisor/commit/ea5cd7cd8554e2def5fdcc1d3488598a08e99bfa))
+
+
+### Features
+
+* allow building datafiles with custom revision flag in CLI ([#77](https://github.com/featurevisor/featurevisor/issues/77)) ([dbcdcce](https://github.com/featurevisor/featurevisor/commit/dbcdcce28c9d7791b7b010b3940e033439cc92a2))
+* code generation ([#98](https://github.com/featurevisor/featurevisor/issues/98)) ([7474443](https://github.com/featurevisor/featurevisor/commit/7474443d26fd526f471ef5258cbe39b42c0fad60))
+* restore state files ([#100](https://github.com/featurevisor/featurevisor/issues/100)) ([796695d](https://github.com/featurevisor/featurevisor/commit/796695d0f645869ec305c3446282fba7e45e2bb5))
+* state files are now per environment ([#72](https://github.com/featurevisor/featurevisor/issues/72)) ([925f4cf](https://github.com/featurevisor/featurevisor/commit/925f4cf980134db60c40c2e27259a3d6142f16aa))
+* Status site generator ([#31](https://github.com/featurevisor/featurevisor/issues/31)) ([05749d4](https://github.com/featurevisor/featurevisor/commit/05749d4ca2938a0ee7c7b52c7441b078d5f0dee9))
+* test PR for triggering minor release ([#2](https://github.com/featurevisor/featurevisor/issues/2)) ([1c986f9](https://github.com/featurevisor/featurevisor/commit/1c986f9ee4ee4669a118380771cb43fdf66e0137))
+* use Prettier v2.x ([#143](https://github.com/featurevisor/featurevisor/issues/143)) ([ddca499](https://github.com/featurevisor/featurevisor/commit/ddca499526f2f8bf10dc340fb55877584501a682))
+
+
+
+
+
 # [0.49.0](https://github.com/featurevisor/featurevisor/compare/v0.48.0...v0.49.0) (2023-09-30)
 
 **Note:** Version bump only for package @featurevisor/cli
